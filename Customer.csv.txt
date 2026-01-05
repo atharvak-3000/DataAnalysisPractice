@@ -1,0 +1,7 @@
+CustomerID,CustomerName,City,Region,JoinDate
+C001,Rahul Sharma,Mumbai,West,2023-01-10
+C002,Anita Verma,Kolkata,East,2023-02-15
+C003,Imran Khan,Delhi,North,2023-03-20
+C004,Priya Iyer,Chennai,South,2023-04-18
+C005,Amit Patel,Ahmedabad,West,2023-05-25
+C006,,Jaipur,North,2023-06-30

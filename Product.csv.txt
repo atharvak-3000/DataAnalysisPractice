@@ -1,0 +1,6 @@
+ProductID,ProductName,Category,CostPrice
+P001,Laptop,Electronics,1500
+P002,Tablet,Electronics,800
+P003,Chair,Furniture,500
+P004,Desk,Furniture,2000
+P005,Headphones,Electronics,300

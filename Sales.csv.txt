@@ -1,0 +1,10 @@
+SaleID,OrderDate,CustomerID,ProductID,Quantity,SalesAmount,Region,OrderStatus
+S001,2024-04-01,C001,P001,2,4000,West,Completed
+S002,2024-04-02,C002,P002,1,1200,East,Completed
+S003,2024-04-02,C003,P003,3,4500,North,Returned
+S004,2024-04-05,C001,P002,2,2400,West,Completed
+S005,2024-04-07,C004,P004,,3000,South,Completed
+S006,2024-04-08,C005,P001,1,2000,East,Completed
+S007,2024-04-08,C002,P005,2,0,East,Cancelled
+S008,2024-04-10,C006,P003,1,1500,North,Completed
+S009,2024-04-12,C001,P004,2,6000,West,Completed

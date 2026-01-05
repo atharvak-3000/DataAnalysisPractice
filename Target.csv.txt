@@ -1,0 +1,5 @@
+Region,TargetSales
+West,15000
+East,8000
+North,7000
+South,6000
